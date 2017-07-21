@@ -1,0 +1,11 @@
+{
+  "name": "cordova-plugin-uwpbackbutton",
+  "version": "0.0.1",
+  "cordova": {
+    "id": "cordova-plugin-uwpbackbutton",
+    "platforms": [
+      "windows"
+    ]
+  },
+  "description": "A starting point for a Cordova Plugin"
+}
