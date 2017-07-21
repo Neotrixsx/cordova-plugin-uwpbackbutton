@@ -1,5 +1,4 @@
-var cordova = require('cordova'),
-    UWPBackbutton = require('./UWPBackbutton');
+var cordova = require('cordova');
 
 module.exports = {
 

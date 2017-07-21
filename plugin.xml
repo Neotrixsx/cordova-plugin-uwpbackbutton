@@ -2,13 +2,13 @@
 
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
     id="cordova-plugin-uwpbackbutton"
-    version="0.0.1">
+    version="0.0.2">
     <name>Cordova Plugin UWPBackbutton</name>
     <description></description>
     <license>MIT</license>
     <keywords></keywords>
-    <repo>https://github.com/driftyco/cordova-plugin-uwpbackbutton.git</repo>
-    <issue>https://github.com/driftyco/cordova-plugin-uwpbackbutton/issues</issue>
+    <repo>https://github.com/bambam2174/cordova-plugin-uwpbackbutton.git</repo>
+    <issue>https://github.com/bambam2174/cordova-plugin-uwpbackbutton/issues</issue>
     
     <js-module name="UWPBackbutton" src="www/plugin.js">
         <clobbers target="cordova.plugins.UWPBackbutton" />
