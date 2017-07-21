@@ -9,6 +9,10 @@
     <keywords></keywords>
     <repo>https://github.com/driftyco/cordova-plugin-uwpbackbutton.git</repo>
     <issue>https://github.com/driftyco/cordova-plugin-uwpbackbutton/issues</issue>
+    
+    <js-module name="UWPBackbutton" src="www/plugin.js">
+        <clobbers target="cordova.plugins.UWPBackbutton" />
+    </js-module>
 
     <platform name="windows">
         <js-module src="src/windows/UWPBackbuttonProxy.js" name="UWPBackbuttonProxy">
