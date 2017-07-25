@@ -2,11 +2,12 @@
 
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
     id="cordova-plugin-uwpbackbutton"
-    version="0.0.2">
+    version="0.0.3">
     <name>Cordova Plugin UWPBackbutton</name>
-    <description></description>
+    <description>Hides the UWP Back Button on windows 10 platform</description>
+    <author>Sedat Kilinc</author>
     <license>MIT</license>
-    <keywords></keywords>
+    <keywords>cordova, UWP, back, button, hide, hidden, remove</keywords>
     <repo>https://github.com/bambam2174/cordova-plugin-uwpbackbutton.git</repo>
     <issue>https://github.com/bambam2174/cordova-plugin-uwpbackbutton/issues</issue>
     

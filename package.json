@@ -1,11 +1,30 @@
 {
   "name": "cordova-plugin-uwpbackbutton",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "cordova": {
     "id": "cordova-plugin-uwpbackbutton",
     "platforms": [
       "windows"
     ]
   },
-  "description": "A starting point for a Cordova Plugin"
+  "description": "Hides the UWP Back Button on windows 10 platform",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bambam2174/cordova-plugin-uwpbackbutton.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-windows",
+    "cordova",
+    "UWP",
+    "back",
+    "button",
+    "hide",
+    "hidden",
+    "remove"
+  ],
+  "author": "Sedat Kilinc",
+  "license": "MIT"
+
+
 }
