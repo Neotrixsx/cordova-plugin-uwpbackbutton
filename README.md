@@ -7,3 +7,13 @@ Just execute (ionic) cordova plugin add cordova-plugin-uwpbackbutton,
 if you add the plugin the 1st time.
 The plugin should get written into the config.xml and the package.json,
 if you're using ionic.
+
+USAGE:
+Typescript:
+```
+platform.ready().then(() => {
+    if (!!(<any>window).cordova) {
+        (<any>window).cordova.plugins.UWPBackbutton.hideBackbutton();
+    }
+});
+```
